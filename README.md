@@ -1,8 +1,5 @@
-- 👋 Hi, I’m A1ure
-- 👀 I’m interested in Discord JS, JaveScript...Computers!
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Computer Science
+- 👀JavaScript, Java, Python, Pascal
 
 <!---
 A1ure/A1ure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
