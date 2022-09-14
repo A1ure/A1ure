@@ -1,5 +1,5 @@
 - 🌱 Computer Science
-- 👀JavaScript, Java, Python, Pascal
+- 👀 JavaScript, Java, Python, Pascal
 
 <!---
 A1ure/A1ure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
